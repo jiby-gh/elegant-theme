@@ -30,9 +30,9 @@
       "inactiveBackground": "gray",
       "foreground": "white",
 
-      "borderColor": "gray",
-      "disabledBorderColor": "gray",
-      "separatorColor": "gray",
+      "borderColor": "dark",
+      "disabledBorderColor": "dark",
+      "separatorColor": "dark",
 
       "infoForeground": "gray4",
       "selectionBackground": "gray",
